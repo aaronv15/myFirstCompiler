@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="cradle.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="58"/>
+        <CursorPos X="12" Y="64"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="116" Column="19" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="150" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="93" Column="5" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="136" Column="6" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="95" Column="17" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="156" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="151" Column="10" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="cradle.lpr"/>
+        <Caret Line="60" Column="38" TopLine="57"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
